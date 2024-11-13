@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="resetBtn">#3C3838</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="players">#D8CACA</color>
+    <color name="winner">#8BF690</color>
+    <color name="game">#2F0835</color>
+</resources>
